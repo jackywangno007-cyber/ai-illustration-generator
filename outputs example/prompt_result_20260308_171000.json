@@ -1,0 +1,7 @@
+{
+  "main_prompt": "A beautiful watercolor illustration of the Yellow Crane Tower (Huanghelou) at sunset, designed for a children's educational poster. The scene shows the iconic Chinese pagoda-style tower with warm golden sunset light casting long shadows. The sky is painted in soft gradients of orange, pink, and purple with gentle clouds. The Yangtze River flows peacefully in the foreground with subtle reflections of the tower. Include friendly cartoon-style birds flying near the tower to add child-friendly appeal. The overall composition is bright, cheerful, and educational with clear architectural details suitable for teaching about Chinese cultural landmarks. Use soft watercolor textures with visible brushstrokes and gentle color blending.",
+  "negative_prompt": "NSFW content, violence, scary elements, dark atmosphere, realistic blood, weapons, adult themes, disturbing imagery, photorealistic style, sharp edges, overly detailed realism, gloomy colors, stormy weather, crowded scenes, text overlays, modern buildings, pollution, damaged structures",
+  "style": "Educational children's illustration with watercolor aesthetic, combining soft watercolor techniques with cartoon-like simplicity for young audiences",
+  "aspect_ratio": "3:4 (portrait orientation suitable for educational posters)",
+  "chinese_summary": "一张适合儿童教学海报的黄鹤楼日落水彩插画，采用温暖柔和的色彩，结合水彩技法和卡通元素，展现黄鹤楼在夕阳下的美丽景象，画面明亮友好，适合教育用途。"
+}

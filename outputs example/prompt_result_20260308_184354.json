@@ -1,0 +1,7 @@
+{
+  "main_prompt": "A brilliant fictional engineer in a high-tech laboratory, designing the next generation of intelligent exoskeleton technology. The engineer is focused on a holographic interface displaying biomechanical schematics. The exoskeleton design is sleek, non-militarized, with glowing energy nodes and adaptive joints. Laboratory environment features clean lines, transparent displays, floating data projections, and advanced fabrication tools. Cinematic lighting, cyberpunk aesthetic with utopian elements, highly detailed.",
+  "negative_prompt": "weapons, combat gear, militarized armor, violence, gore, blood, explicit content, disturbing imagery, unsafe technology, copyrighted characters, famous IP, low quality, blurry, deformed, ugly.",
+  "style": "cinematic, cyberpunk utopian, sci-fi concept art, highly detailed, photorealistic",
+  "aspect_ratio": "16:9",
+  "chinese_summary": "一位虚构的天才工程师在充满未来感的高科技实验室中，专注于研发下一代智能外骨骼技术。场景呈现赛博朋克乌托邦风格，注重细节与光影效果。"
+}

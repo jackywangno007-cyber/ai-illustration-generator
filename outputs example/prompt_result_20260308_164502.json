@@ -1,0 +1,7 @@
+{
+  "main_prompt": "```json\n{\n    \"main_prompt\": \"A beautiful watercolor illustration of the Yellow Crane Tower at sunset, designed for a children's educational poster. The scene shows the iconic Chinese pagoda-style tower with warm golden sunset light reflecting on its traditional curved roofs and wooden structure. In the foreground, gentle waves of the Yangtze River reflect the orange and pink sky. Include friendly cartoon-style birds flying near the tower, with soft clouds in the sky. The illustration should be bright, cheerful, and educational, with clear details suitable for children to learn about Chinese architecture. Use soft watercolor washes with vibrant sunset colors (orange, pink, purple, gold) and visible brushstroke textures.\",\n    \"negative_prompt\": \"no violence, no weapons, no scary elements, no dark or gloomy atmosphere, no realistic blood, no adult content, no text overlay, no blurry details, no photorealistic style, no modern buildings, no pollution, no crowded scenes, no sharp edges\",\n    \"style\": \"Educational children's watercolor illustration with cartoon elements, bright colors, and soft textures\",\n    \"aspect_ratio\": \"3:4 (portrait orientation suitable for posters)\",\n    \"chinese_summary\": \"一张适合儿童教学海报的黄鹤楼日落水彩插画，采用明亮欢快的教育性插画风格，展现黄鹤楼在温暖日落光线下的美景，前景有长江水波反射天空色彩，包含友好的卡通风格飞鸟，整体色彩鲜艳、细节清晰，适合儿童学习中国建筑文化。\"\n}\n```",
+  "negative_prompt": "",
+  "style": "",
+  "aspect_ratio": "",
+  "chinese_summary": "模型未返回标准 JSON，已保留原始输出。"
+}

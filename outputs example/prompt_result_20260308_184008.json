@@ -1,0 +1,7 @@
+{
+  "main_prompt": "Tony Stark, also known as Iron Man, working in his high-tech laboratory on designing the next generation of his Iron Man suit. He is wearing a casual shirt with rolled-up sleeves, standing before a large holographic display showing intricate blueprints and 3D models of the suit's components. The lab is filled with advanced technology: robotic arms, glowing holograms, scattered tools, and various prototype parts. The atmosphere is one of intense focus and innovation, with soft blue and gold lighting highlighting the details. The scene is dynamic, showing Tony interacting with the holograms, adjusting designs with precise hand gestures.",
+  "negative_prompt": "NSFW, violence, gore, disturbing content, blood, weapons firing, destruction, messy or dirty environment, poor lighting, blurry, low quality, cartoonish, anime style, unrealistic proportions, text or watermarks.",
+  "style": "Photorealistic, cinematic, sci-fi, detailed, high-tech, dramatic lighting.",
+  "aspect_ratio": "16:9",
+  "chinese_summary": "一张托尼斯塔克（钢铁侠）在其高科技实验室中研发新一代战衣的图片。他穿着休闲衬衫，站在大型全息显示屏前，屏幕上显示着战衣的复杂蓝图和3D模型。实验室充满先进科技设备，氛围专注且富有创新感，采用电影级写实风格和戏剧化灯光。"
+}

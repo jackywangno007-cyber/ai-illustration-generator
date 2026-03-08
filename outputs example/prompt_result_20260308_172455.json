@@ -1,0 +1,7 @@
+{
+  "main_prompt": "A majestic daytime view of the Giant Wild Goose Pagoda (Dayan Pagoda) in Xi'an, China, standing tall against a clear blue sky with soft white clouds. The ancient brick pagoda shows intricate architectural details with seven stories and traditional Chinese eaves. In the foreground, lush green trees and blooming flowers frame the scene, with visitors admiring the historical landmark from a respectful distance. Soft sunlight creates gentle shadows, highlighting the pagoda's weathered texture and historical significance. The surrounding temple complex features traditional Chinese architecture with red pillars and grey tiles, creating a harmonious cultural atmosphere.",
+  "negative_prompt": "blurry, distorted, low quality, NSFW, violent, disturbing, modern buildings, crowds, pollution, night time, rain, snow, damaged structure, text overlay, watermark, cartoon style, anime style, fantasy elements",
+  "style": "photorealistic, detailed architectural photography, cultural heritage documentation, serene atmosphere",
+  "aspect_ratio": "16:9",
+  "chinese_summary": "一张西安大雁塔的日间摄影作品，展现这座七层古塔在蓝天白云下的庄严景象。前景有绿树鲜花环绕，游客在适当距离观赏。柔和阳光突出建筑细节和纹理，周围传统中式建筑营造和谐文化氛围。"
+}

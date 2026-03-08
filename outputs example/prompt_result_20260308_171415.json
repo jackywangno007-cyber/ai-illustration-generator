@@ -1,0 +1,7 @@
+{
+  "main_prompt": "A majestic photograph of the Yellow River Iron Bridge (Zhongshan Bridge) in Lanzhou, China, spanning across the Yellow River with clear blue sky above. The historic steel truss bridge is illuminated by warm golden hour sunlight, with intricate details visible in its ironwork structure. In the background, modern skyscrapers of Lanzhou city contrast with traditional architecture along the riverbanks. The Yellow River flows gently beneath the bridge with small ripples reflecting the sunlight. Several pedestrians are walking across the bridge, and traditional Chinese lanterns hang along its sides. The image has vibrant colors, sharp focus, and cinematic lighting.",
+  "negative_prompt": "blurry, distorted, low quality, grainy, oversaturated, dark, gloomy, foggy, rainy, stormy, damaged bridge, construction, cranes, modern vehicles on bridge, crowds, pollution, trash, text, watermark, signature, frame, border, NSFW, violence, disturbing elements",
+  "style": "Photorealistic architectural photography with cinematic lighting and vibrant colors",
+  "aspect_ratio": "16:9",
+  "chinese_summary": "一张展现兰州黄河铁桥（中山桥）的宏伟照片，钢铁桁架结构在金色阳光下细节清晰，背景中现代建筑与传统河岸景观形成对比，黄河水面波光粼粼，行人漫步桥上，整体呈现电影感的光影和鲜艳色彩。"
+}

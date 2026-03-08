@@ -1,0 +1,7 @@
+{
+  "main_prompt": "A majestic photograph of the Zhongshan Bridge (Lanzhou Yellow River Iron Bridge) spanning across the Yellow River in Lanzhou, China. The historic iron bridge is illuminated by the warm golden light of sunset, with its intricate steel truss structure clearly visible. The Yellow River flows powerfully beneath the bridge, reflecting the orange and purple hues of the sky. In the background, the modern skyline of Lanzhou city contrasts with the traditional architecture of the White Pagoda Mountain. Several pedestrians are walking on the bridge, enjoying the view. The image is sharp, highly detailed, with vibrant colors and a sense of historical significance.",
+  "negative_prompt": "blurry, distorted, low quality, grainy, NSFW, violent, disturbing, modern bridge design, ruined bridge, broken structure, polluted water, trash, ugly, cartoon, anime, abstract art, text, watermark, signature.",
+  "style": "Photorealistic, detailed, cinematic, historical landmark photography.",
+  "aspect_ratio": "16:9",
+  "chinese_summary": "一张展现兰州黄河铁桥（中山桥）雄伟风貌的图片。夕阳下的铁桥横跨黄河，钢结构清晰，河水奔流，映照着天空的暖色。背景中兰州现代城市天际线与白塔山传统建筑形成对比。画面清晰、色彩鲜艳，富有历史感。"
+}
